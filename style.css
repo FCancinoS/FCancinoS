@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url(/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    margin-top: 20px;
+    padding: 30px;
+    font-size: 70px;
+    font-family: Georgia;
+    color: white;
+    opacity: 100%;
+}
+
+.contenedor{
+    width: 1000px;
+    height: 1000px;
+    background-color: black;
+    opacity: 70%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+}
+.ocupation{
+    color: rgb(9, 250, 21);
+    font-size: 40px;
+}
+
+ul{
+    list-style: none;
+    font-size: 30px;
+    text-align: left;
+    color: white;
+    margin-left: 20px;
+   
+}
+li{
+    padding: 20px;
+}
+.dones{
+    
+}
+@font-face{
+    font-family: "Techna";
+    src: url(/fonts/TechnaSans-Regular.otf);
+}
+
